@@ -28,7 +28,7 @@ We develop the quickest 3D route navigation map for Genshin Impact as a player-f
 
 > **Update Log**
 >
-> Now, you can download each directory as a separate zip file. Just click it --> [Genshin_Impact_Teleport/download](https://github.com/Sam5440/Genshin_Impact_Teleport/tree/download)
+> Now, you can download each directory as a separate zip file. Just click it --> [Genshin_Impact_Teleport/download](../../tree/download)
 
 ---
 > The current 3.4 points have yet to be announced. The expected announcement time is mid-February.
@@ -108,7 +108,7 @@ We develop the quickest 3D route navigation map for Genshin Impact as a player-f
 
 [Click me](../../tree/download) and look for the files you need in the same directory.
 
-Download Branch : [Sam5440/Genshin_Impact_Teleport at download](/../../tree/download
+Download Branch : [Sam5440/Genshin_Impact_Teleport at download](../../tree/download)
 
 ## How to search in web page?
 
@@ -135,43 +135,43 @@ Download Branch : [Sam5440/Genshin_Impact_Teleport at download](/../../tree/down
 
 | AddTime    | Img                                                   | Name/ID               | World                 | Author/DC ID  |
 | ---------- | ----------------------------------------------------- | --------------------- | --------------------- | ------------- |
-| 2022/09/30 | ![Anemoculus](/../download/OtherFile/img/icons/Anemoculus.png)     | [AnemOculus](/../download/ManualCollectPoint/SpecialItems#anemoculuszip)            | Teyvat                | inkay#5122    |
-| 2022/10/07 | ![CrimsonAgate](OtherFile/img/icons/CrimsonAgate.png) | [Crimson Agate](https://github.com/Sam5440/Genshin_Impact_Teleport/tree/download/ManualCollectPoint/SpecialItems#crimson-agatezip)         | Teyvat                | 𝓜𝓪𝓻𝓽𝓲𝓷#6895  |
-| 2022/09/30 | ![Geoculus](OtherFile/img/icons/Geoculus.png)         | [Geoculus](https://github.com/Sam5440/Genshin_Impact_Teleport/tree/download/ManualCollectPoint/SpecialItems#geoculuszip)              | Teyvat                | inkay#5122    |
-| 2022/09/30 | ![Electroculus](OtherFile/img/icons/Electroculus.png) | [Electroculus](https://github.com/Sam5440/Genshin_Impact_Teleport/tree/download/ManualCollectPoint/SpecialItems#electroculuszip)          | Teyvat                | inkay#5122    |
-| 2022/10/11 | ![Lumenspar](OtherFile/img/icons/Lumenspar.png)       | [Lumenspar](https://github.com/Sam5440/Genshin_Impact_Teleport/tree/download/ManualCollectPoint/SpecialItems#lumensparzip)             | The Chasm Underground | emma1259#3965 |
-| 2022/10/11 | ![Lumenspar](OtherFile/img/icons/Lumenspar.png)       | [Lumenstone Ore](https://github.com/Sam5440/Genshin_Impact_Teleport/tree/download/ManualCollectPoint/SpecialItems#lumenspar-upgradezip)[^1] | The Chasm Underground | emma1259#3965 |
-| 2022/11/05 | ![KeySigil](OtherFile/img/icons/KeySigilNew.png)      | [Key Sigil](https://github.com/Sam5440/Genshin_Impact_Teleport/tree/download/ManualCollectPoint/SpecialItems#key-sigilzip)             | Enkanomiya            | allencross#6363|
-| 2022/09/30 | ![Dendroculus](OtherFile/img/icons/Dendroculus.png)   | [Dendroculus](https://github.com/Sam5440/Genshin_Impact_Teleport/tree/download/ManualCollectPoint/SpecialItems#dendroculuszip)[^2]       | Teyvat                | inkay#5122    |
-| 2023/01/19 | ![Dendroculus](OtherFile/img/icons/Dendroculus.png)   | [Dendroculus 3.4](https://github.com/Sam5440/Genshin_Impact_Teleport/tree/download/ManualCollectPoint/SpecialItems/Dendroculus#34zip)[^3]       | Teyvat                | 空白#0099 |
-| 2022/10/05 | ![SacredSeal](OtherFile/img/icons/SacredSeal.png)     | [Sacred Seal](https://github.com/Sam5440/Genshin_Impact_Teleport/tree/download/ManualCollectPoint/SpecialItems#sacred-sealzip)           | Teyvat                | Misuki#9695   |
-| 2023/01/19 | ![SacredSeal](OtherFile/img/icons/SacredSeal.png)     | [Sacred Seal 3.4](https://github.com/Sam5440/Genshin_Impact_Teleport/tree/download/ManualCollectPoint/SpecialItems/Sacred%20Seal#34zip)           | Teyvat                | 空白#0099 |
+| 2022/09/30 | ![Anemoculus](OtherFile/img/icons/Anemoculus.png)     | [AnemOculus](/../download/ManualCollectPoint/SpecialItems#anemoculuszip)            | Teyvat                | inkay#5122    |
+| 2022/10/07 | ![CrimsonAgate](OtherFile/img/icons/CrimsonAgate.png) | [Crimson Agate](/../download/ManualCollectPoint/SpecialItems#crimson-agatezip)         | Teyvat                | 𝓜𝓪𝓻𝓽𝓲𝓷#6895  |
+| 2022/09/30 | ![Geoculus](OtherFile/img/icons/Geoculus.png)         | [Geoculus](/../download/ManualCollectPoint/SpecialItems#geoculuszip)              | Teyvat                | inkay#5122    |
+| 2022/09/30 | ![Electroculus](OtherFile/img/icons/Electroculus.png) | [Electroculus](/../download/ManualCollectPoint/SpecialItems#electroculuszip)          | Teyvat                | inkay#5122    |
+| 2022/10/11 | ![Lumenspar](OtherFile/img/icons/Lumenspar.png)       | [Lumenspar](/../download/ManualCollectPoint/SpecialItems#lumensparzip)             | The Chasm Underground | emma1259#3965 |
+| 2022/10/11 | ![Lumenspar](OtherFile/img/icons/Lumenspar.png)       | [Lumenstone Ore](/../download/ManualCollectPoint/SpecialItems#lumenspar-upgradezip)[^1] | The Chasm Underground | emma1259#3965 |
+| 2022/11/05 | ![KeySigil](OtherFile/img/icons/KeySigilNew.png)      | [Key Sigil](/../download/ManualCollectPoint/SpecialItems#key-sigilzip)             | Enkanomiya            | allencross#6363|
+| 2022/09/30 | ![Dendroculus](OtherFile/img/icons/Dendroculus.png)   | [Dendroculus](/../download/ManualCollectPoint/SpecialItems#dendroculuszip)[^2]       | Teyvat                | inkay#5122    |
+| 2023/01/19 | ![Dendroculus](OtherFile/img/icons/Dendroculus.png)   | [Dendroculus 3.4](/../download/ManualCollectPoint/SpecialItems/Dendroculus#34zip)[^3]       | Teyvat                | 空白#0099 |
+| 2022/10/05 | ![SacredSeal](OtherFile/img/icons/SacredSeal.png)     | [Sacred Seal](/../download/ManualCollectPoint/SpecialItems#sacred-sealzip)           | Teyvat                | Misuki#9695   |
+| 2023/01/19 | ![SacredSeal](OtherFile/img/icons/SacredSeal.png)     | [Sacred Seal 3.4](/../download/ManualCollectPoint/SpecialItems/Sacred%20Seal#34zip)           | Teyvat                | 空白#0099 |
 
 ## Local Specialties
 
 | AddTime    | Img                                                | Name/ID             | World  | Author/ID         | NOTE         |
 | ---------- | -------------------------------------------------- | ------------------- | ------ | ----------------- | -------------|
-| 2023/01/24  | ![SandGreasePupa](OtherFile/img/icons/SandGreasePupa.png)| [Sand Grease Pupa](https://github.com/Sam5440/Genshin_Impact_Teleport/tree/download/ManualCollectPoint/LocalSpecialties#sandgreasepupazip) | Teyvat | [Drich#6666](https://github.com/Drich3614) | 74 Pupae |
-| 2022/10/07 | ![Scarab](OtherFile/img/icons/Scarab.png) | [scarab](https://github.com/Sam5440/Genshin_Impact_Teleport/tree/download/ManualCollectPoint/LocalSpecialties#teyvat-scarabzip) | Teyvat | ShinaKaria#9760 | 72 pcs |
-| 2022/10/12 | ![Scarab](OtherFile/img/icons/Scarab.png) | [scarab#2](https://github.com/Sam5440/Genshin_Impact_Teleport/tree/download/ManualCollectPoint/LocalSpecialties#teyvat-scarab2zip) | Teyvat | civicmanan#2171 | 74 pcs |
-| 2023/01/26 | ![SilkFlower](OtherFile/img/icons/SilkFlower.png) | [Silk Flower](https://github.com/Sam5440/Genshin_Impact_Teleport/tree/download/ManualCollectPoint/LocalSpecialties#silkflowerzip) | Teyvat | [Drich#6666](https://github.com/Drich3614) | 28 Flowers |
+| 2023/01/24  | ![SandGreasePupa](OtherFile/img/icons/SandGreasePupa.png)| [Sand Grease Pupa](/../download/ManualCollectPoint/LocalSpecialties#sandgreasepupazip) | Teyvat | [Drich#6666](https://github.com/Drich3614) | 74 Pupae |
+| 2022/10/07 | ![Scarab](OtherFile/img/icons/Scarab.png) | [scarab](/../download/ManualCollectPoint/LocalSpecialties#teyvat-scarabzip) | Teyvat | ShinaKaria#9760 | 72 pcs |
+| 2022/10/12 | ![Scarab](OtherFile/img/icons/Scarab.png) | [scarab#2](/../download/ManualCollectPoint/LocalSpecialties#teyvat-scarab2zip) | Teyvat | civicmanan#2171 | 74 pcs |
+| 2023/01/26 | ![SilkFlower](OtherFile/img/icons/SilkFlower.png) | [Silk Flower](/../download/ManualCollectPoint/LocalSpecialties#silkflowerzip) | Teyvat | [Drich#6666](https://github.com/Drich3614) | 28 Flowers |
 
 ## Inventory
 
 | AddTime    | Img                                               | Name/ID    | World  | Author/ID       | NOTE |
 | ---------- | ------------------------------------------------- | ---------- | ------ | --------------- | ---- |
-| 2022/10/07 | ![CrystalCore](OtherFile/img/icons/CrystalCore.png)| [CrystalCore_12point](https://github.com/Sam5440/Genshin_Impact_Teleport/tree/download/ManualCollectPoint/Inventory#crystalcore_12pointzip) | Teyvat | Linxia#0961              | 12 point     |
-| 2022/10/15 | ![CrystalCore](OtherFile/img/icons/CrystalCore.png)| [CrystalCore_35point](https://github.com/Sam5440/Genshin_Impact_Teleport/tree/download/ManualCollectPoint/Inventory#crystalcore_35pointzip) | Teyvat | Chongdong#4545 | 2022/10/07's CrystalCore_12point update version. |
+| 2022/10/07 | ![CrystalCore](OtherFile/img/icons/CrystalCore.png)| [CrystalCore_12point](/../download/ManualCollectPoint/Inventory#crystalcore_12pointzip) | Teyvat | Linxia#0961              | 12 point     |
+| 2022/10/15 | ![CrystalCore](OtherFile/img/icons/CrystalCore.png)| [CrystalCore_35point](/../download/ManualCollectPoint/Inventory#crystalcore_35pointzip) | Teyvat | Chongdong#4545 | 2022/10/07's CrystalCore_12point update version. |
 
 ## Chunks
 
 | AddTime    | Img                                                          | Name/ID                                                      | World                                     | Author/ID                        | NOTE                                                         |
 | ---------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ----------------------------------------- | -------------------------------- | ------------------------------------------------------------ |
-| 2022/10/11 | ![WhiteIronChunk](OtherFile/img/icons/WhiteIronChunk.png)![CrystalChunk](OtherFile/img/icons/CrystalChunk.png) | [72Enrichment points](https://github.com/Sam5440/Genshin_Impact_Teleport/tree/download/ManualCollectPoint/Chunk#72enrichmentpointszip) | Teyvat(1-38)/The Chasm Underground(38-72) | jdbddbhd#9874                    | 72 mineral enrichment points, including Inazuma,maybe you need to move to pick/destory them.And points after 38 are in The Chasm Underground |
-| 2022/10/07 | ![CrystalChunk](OtherFile/img/icons/CrystalChunk.png)        | [CrystalChunk](https://github.com/Sam5440/Genshin_Impact_Teleport/tree/download/ManualCollectPoint/Chunk#crystalchunkzip) | Teyvat                                    | Michell Lim#9331 and Linxia#0961 | /                                                            |
-| 2022/10/07 | ![CrystalChunk](OtherFile/img/icons/CrystalChunk.png)        | [CrystalChunk-The Chasm Underground](https://github.com/Sam5440/Genshin_Impact_Teleport/tree/download/ManualCollectPoint/Chunk#crystalchunk-the-chasm-undergroundzip) | The Chasm Underground                     | Michell Lim#9331 and Linxia#0961 | CrystalChunk-19 to 43 are in The Chasm Underground.          |
-| 2022/10/11 | ![AmethystLump](OtherFile/img/icons/AmethystLump.png)        | [EnkanomiyaAmethystLump](https://github.com/Sam5440/Genshin_Impact_Teleport/tree/download/ManualCollectPoint/Chunk#enkanomiyaamethystlumpzip) | Enkanomiya                                | Michell Lim#9331                 | /                                                            |
-| 2022/10/11 | ![AmethystLump](OtherFile/img/icons/AmethystLump.png)        | [AmethystLump](https://github.com/Sam5440/Genshin_Impact_Teleport/tree/download/ManualCollectPoint/Chunk#amethystlumpzip) | Teyvat                                    | Michell Lim#9331                 | /                                                            |
+| 2022/10/11 | ![WhiteIronChunk](OtherFile/img/icons/WhiteIronChunk.png)![CrystalChunk](OtherFile/img/icons/CrystalChunk.png) | [72Enrichment points](/../download/ManualCollectPoint/Chunk#72enrichmentpointszip) | Teyvat(1-38)/The Chasm Underground(38-72) | jdbddbhd#9874                    | 72 mineral enrichment points, including Inazuma,maybe you need to move to pick/destory them.And points after 38 are in The Chasm Underground |
+| 2022/10/07 | ![CrystalChunk](OtherFile/img/icons/CrystalChunk.png)        | [CrystalChunk](/../download/ManualCollectPoint/Chunk#crystalchunkzip) | Teyvat                                    | Michell Lim#9331 and Linxia#0961 | /                                                            |
+| 2022/10/07 | ![CrystalChunk](OtherFile/img/icons/CrystalChunk.png)        | [CrystalChunk-The Chasm Underground](/../download/ManualCollectPoint/Chunk#crystalchunk-the-chasm-undergroundzip) | The Chasm Underground                     | Michell Lim#9331 and Linxia#0961 | CrystalChunk-19 to 43 are in The Chasm Underground.          |
+| 2022/10/11 | ![AmethystLump](OtherFile/img/icons/AmethystLump.png)        | [EnkanomiyaAmethystLump](/../download/ManualCollectPoint/Chunk#enkanomiyaamethystlumpzip) | Enkanomiya                                | Michell Lim#9331                 | /                                                            |
+| 2022/10/11 | ![AmethystLump](OtherFile/img/icons/AmethystLump.png)        | [AmethystLump](/../download/ManualCollectPoint/Chunk#amethystlumpzip) | Teyvat                                    | Michell Lim#9331                 | /                                                            |
 
 ## Monsters
 
@@ -179,23 +179,23 @@ Download Branch : [Sam5440/Genshin_Impact_Teleport at download](/../../tree/down
 
 | AddTime    | Img                                                          | Name/ID          | World  | Author/ID        | NOTE                                                         |
 | ---------- | ------------------------------------------------------------ | ---------------- | ------ | ---------------- | ------------------------------------------------------------ |
-| 2022/10/11 | ![UnusualHilichurl](OtherFile/img/icons/UnusualHilichurl.png) | [Unusual Hilichurl](https://github.com/Sam5440/Genshin_Impact_Teleport/tree/download/ManualCollectPoint/Monster#unusualhilichurlzip) | Teyvat | jdbddbhd#9874    | /                                                            |
-| 2022/10/11 | ![FatuiAgent](OtherFile/img/icons/FatuiAgent.png)            | [Fatui Agent](https://github.com/Sam5440/Genshin_Impact_Teleport/tree/download/ManualCollectPoint/Monster#fatuiagentzip)       | Teyvat | Michell Lim#9331 | /        |
-| 2022/12/22 | ![FatuiAgent](OtherFile/img/icons/FatuiAgent.png)            | [Fatui Agent 22](https://github.com/Sam5440/Genshin_Impact_Teleport/tree/download/ManualCollectPoint/Monster#fatuiagent22zip)       | Teyvat | Unknow | /                                                          |
-| 2022/10/12 | ![Slime](OtherFile/img/icons/Slime.png)                      | [Slime](https://github.com/Sam5440/Genshin_Impact_Teleport/tree/download/ManualCollectPoint/Monster#slimezip)            | Teyvat | Foxx#0061        | Sorted by different color/properties.(ver2.8)             |
-| 2022/10/12 | ![Specter](OtherFile/img/icons/Specter.png)                  | [Specter](https://github.com/Sam5440/Genshin_Impact_Teleport/tree/download/ManualCollectPoint/Monster#specterzip)          | Teyvat | Foxx#0061        | Sorted by different color/properties.(ver2.8)             |
-| 2022/10/12 | ![Rifthound](OtherFile/img/icons/Rifthound.png)![RifthoundWhelp](OtherFile/img/icons/RifthoundWhelp.png) | [Rifthound](https://github.com/Sam5440/Genshin_Impact_Teleport/tree/download/ManualCollectPoint/Monster#rifthoundzip)        | Teyvat | Foxx#0061        | Sorted by different color/properties.(ver2.8)             |
-| 2022/10/12 | ![FatuiMirrorMaiden](OtherFile/img/icons/FatuiMirrorMaiden.png)![FatuiCicinMage](OtherFile/img/icons/FatuiCicinMage.png)![FatuiAgent](OtherFile/img/icons/FatuiAgent.png) | [Fatui Elite](https://github.com/Sam5440/Genshin_Impact_Teleport/tree/download/ManualCollectPoint/Monster#fatuielitezip)       | Teyvat | Foxx#0061        | Sorted by different kind.(ver2.8)                         |
-| 2022/10/12 | ![FatuiSkirmisher](OtherFile/img/icons/FatuiSkirmisher.png)  | [Fatui Skirmisher](https://github.com/Sam5440/Genshin_Impact_Teleport/tree/download/ManualCollectPoint/Monster#fatuiskirmisherzip)  | Teyvat | Foxx#0061        | Sorted by different color/properties.(ver2.8)             |
-| 2022/10/12 | ![Nobushi](OtherFile/img/icons/Nobushi.png)![Kairagi](OtherFile/img/icons/Kairagi.png) | [Nobushi&Kairagi](https://github.com/Sam5440/Genshin_Impact_Teleport/tree/download/ManualCollectPoint/Monster#nobushikairagizip)  | Teyvat | Foxx#0061        | Sorted by different kinds.(ver2.8)                        |
-| 2022/10/12 | ![Whopperflower](OtherFile/img/icons/Whopperflower.png)      | [Whopperflower](https://github.com/Sam5440/Genshin_Impact_Teleport/tree/download/ManualCollectPoint/Monster#whopperflowerzip)    | Teyvat | Foxx#0061        | Sorted by different color/properties,and**you should press "F" to find the WhopperFlower which is hiding  in the flowers**.(ver2.8) |
-| 2022/10/12 | ![TreasureHoarder](OtherFile/img/icons/TreasureHoarder.png)  | [Treasure Hoarders](https://github.com/Sam5440/Genshin_Impact_Teleport/tree/download/ManualCollectPoint/Monster#treasurehoarderszip) | Teyvat | Foxx#0061        | Sorted by different kinds.(ver2.8)                        |
-| 2022/10/18 | ![Fungi](OtherFile/img/icons/Fungi.png)                      | [Fungi](https://github.com/Sam5440/Genshin_Impact_Teleport/tree/download/ManualCollectPoint/Monster#fungizip)            | Teyvat | sam5440 | fungal-spores,11 pcs point                                   |
-| 2023/01/27 | ![Consecrated_Scorpion_Icon](OtherFile/img/icons2/Consecrated_Scorpion_Icon.webp)![Consecrated_Flying_Serpent_Icon](OtherFile/img/icons2/Consecrated_Flying_Serpent_Icon.webp)![Consecrated_Red_Vulture_Icon](OtherFile/img/icons2/Consecrated_Red_Vulture_Icon.webp)![Item_Marked_Shell](OtherFile/img/icons2/Item_Marked_Shell.webp) | [ConsecratedBeast](https://github.com/Sam5440/Genshin_Impact_Teleport/tree/download/ManualCollectPoint/Monster#consecratedBeastzip) | Teyvat | Noxbur#8330 | /                                                            |
-| 2023/01/28 | ![Nobushi](OtherFile/img/icons/Nobushi.png)![Kairagi](OtherFile/img/icons/Kairagi.png) | [Nobushi&Kairagi-2](https://github.com/Sam5440/Genshin_Impact_Teleport/tree/download/ManualCollectPoint/Monster#nobushikairagizip-2) | Teyvat | 6-716#1245 | 6-716#1245 Manually screened efficient points |
-| 2023/01/28 | ![Specter](OtherFile/img/icons/Specter.png) | [Specter-2](https://github.com/Sam5440/Genshin_Impact_Teleport/tree/download/ManualCollectPoint/Monster#specter-2zip) | Teyvat | 6-716#1245 | 6-716#1245 Manually screened efficient points |
-| 2023/01/28 | ![Specter](OtherFile/img/icons/BlackSerpentKnight.png) | [Black Serpent Knight](https://github.com/Sam5440/Genshin_Impact_Teleport/tree/download/ManualCollectPoint/Monster#blackserpentknightzip) | The Chasm Underground | 6-716#1245 | 6-716#1245 Manually screened efficient points |
-| 2023/01/28 | ![RuinHunter](OtherFile/img/icons/RuinHunter.png)...... | [Ruin Machines](https://github.com/Sam5440/Genshin_Impact_Teleport/tree/download/ManualCollectPoint/Monster#ruinmachineszip) | Teyvat | 6-716#1245 | 6-716#1245 Manually screened efficient points |
+| 2022/10/11 | ![UnusualHilichurl](OtherFile/img/icons/UnusualHilichurl.png) | [Unusual Hilichurl](/../download/ManualCollectPoint/Monster#unusualhilichurlzip) | Teyvat | jdbddbhd#9874    | /                                                            |
+| 2022/10/11 | ![FatuiAgent](OtherFile/img/icons/FatuiAgent.png)            | [Fatui Agent](/../download/ManualCollectPoint/Monster#fatuiagentzip)       | Teyvat | Michell Lim#9331 | /        |
+| 2022/12/22 | ![FatuiAgent](OtherFile/img/icons/FatuiAgent.png)            | [Fatui Agent 22](/../download/ManualCollectPoint/Monster#fatuiagent22zip)       | Teyvat | Unknow | /                                                          |
+| 2022/10/12 | ![Slime](OtherFile/img/icons/Slime.png)                      | [Slime](/../download/ManualCollectPoint/Monster#slimezip)            | Teyvat | Foxx#0061        | Sorted by different color/properties.(ver2.8)             |
+| 2022/10/12 | ![Specter](OtherFile/img/icons/Specter.png)                  | [Specter](/../download/ManualCollectPoint/Monster#specterzip)          | Teyvat | Foxx#0061        | Sorted by different color/properties.(ver2.8)             |
+| 2022/10/12 | ![Rifthound](OtherFile/img/icons/Rifthound.png)![RifthoundWhelp](OtherFile/img/icons/RifthoundWhelp.png) | [Rifthound](/../download/ManualCollectPoint/Monster#rifthoundzip)        | Teyvat | Foxx#0061        | Sorted by different color/properties.(ver2.8)             |
+| 2022/10/12 | ![FatuiMirrorMaiden](OtherFile/img/icons/FatuiMirrorMaiden.png)![FatuiCicinMage](OtherFile/img/icons/FatuiCicinMage.png)![FatuiAgent](OtherFile/img/icons/FatuiAgent.png) | [Fatui Elite](/../download/ManualCollectPoint/Monster#fatuielitezip)       | Teyvat | Foxx#0061        | Sorted by different kind.(ver2.8)                         |
+| 2022/10/12 | ![FatuiSkirmisher](OtherFile/img/icons/FatuiSkirmisher.png)  | [Fatui Skirmisher](/../download/ManualCollectPoint/Monster#fatuiskirmisherzip)  | Teyvat | Foxx#0061        | Sorted by different color/properties.(ver2.8)             |
+| 2022/10/12 | ![Nobushi](OtherFile/img/icons/Nobushi.png)![Kairagi](OtherFile/img/icons/Kairagi.png) | [Nobushi&Kairagi](/../download/ManualCollectPoint/Monster#nobushikairagizip)  | Teyvat | Foxx#0061        | Sorted by different kinds.(ver2.8)                        |
+| 2022/10/12 | ![Whopperflower](OtherFile/img/icons/Whopperflower.png)      | [Whopperflower](/../download/ManualCollectPoint/Monster#whopperflowerzip)    | Teyvat | Foxx#0061        | Sorted by different color/properties,and**you should press "F" to find the WhopperFlower which is hiding  in the flowers**.(ver2.8) |
+| 2022/10/12 | ![TreasureHoarder](OtherFile/img/icons/TreasureHoarder.png)  | [Treasure Hoarders](/../download/ManualCollectPoint/Monster#treasurehoarderszip) | Teyvat | Foxx#0061        | Sorted by different kinds.(ver2.8)                        |
+| 2022/10/18 | ![Fungi](OtherFile/img/icons/Fungi.png)                      | [Fungi](/../download/ManualCollectPoint/Monster#fungizip)            | Teyvat | sam5440 | fungal-spores,11 pcs point                                   |
+| 2023/01/27 | ![Consecrated_Scorpion_Icon](OtherFile/img/icons2/Consecrated_Scorpion_Icon.webp)![Consecrated_Flying_Serpent_Icon](OtherFile/img/icons2/Consecrated_Flying_Serpent_Icon.webp)![Consecrated_Red_Vulture_Icon](OtherFile/img/icons2/Consecrated_Red_Vulture_Icon.webp)![Item_Marked_Shell](OtherFile/img/icons2/Item_Marked_Shell.webp) | [ConsecratedBeast](/../download/ManualCollectPoint/Monster#consecratedBeastzip) | Teyvat | Noxbur#8330 | /                                                            |
+| 2023/01/28 | ![Nobushi](OtherFile/img/icons/Nobushi.png)![Kairagi](OtherFile/img/icons/Kairagi.png) | [Nobushi&Kairagi-2](/../download/ManualCollectPoint/Monster#nobushikairagizip-2) | Teyvat | 6-716#1245 | 6-716#1245 Manually screened efficient points |
+| 2023/01/28 | ![Specter](OtherFile/img/icons/Specter.png) | [Specter-2](/../download/ManualCollectPoint/Monster#specter-2zip) | Teyvat | 6-716#1245 | 6-716#1245 Manually screened efficient points |
+| 2023/01/28 | ![Specter](OtherFile/img/icons/BlackSerpentKnight.png) | [Black Serpent Knight](/../download/ManualCollectPoint/Monster#blackserpentknightzip) | The Chasm Underground | 6-716#1245 | 6-716#1245 Manually screened efficient points |
+| 2023/01/28 | ![RuinHunter](OtherFile/img/icons/RuinHunter.png)...... | [Ruin Machines](/../download/ManualCollectPoint/Monster#ruinmachineszip) | Teyvat | 6-716#1245 | 6-716#1245 Manually screened efficient points |
 
 
 
@@ -203,19 +203,19 @@ Download Branch : [Sam5440/Genshin_Impact_Teleport at download](/../../tree/down
 
 | AddTime    | Name                                                         | Floder Name/ID                                               | World  | Author/ID        | NOTE                                                         |
 | ---------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------ | ---------------- | ------------------------------------------------------------ |
-| 2022/10/13 | ![SmallRockPile](OtherFile/img/icons/SmallRockPile.png)Ver3.1 RockPileSemeru | [Ver3.1 RockPileSemeru](https://github.com/Sam5440/Genshin_Impact_Teleport/tree/download/ManualCollectPoint/Chest#ver31-rockpilesemeruzip) | Teyvat | Michell Lim#9331 | Some of them are inside the sand pile and need to be cleared by wind elements, another one is to break the bottle, and 2 are to break the rock |
-| 2022/12/22 | ![WorldQuests](OtherFile/img/icons/CommonChest.png)Liyue  - 1043 chest | [Liyue Chests Json 1043](https://github.com/Sam5440/Genshin_Impact_Teleport/tree/download/ManualCollectPoint/Chest#liyue-chests-json-1043zip) | Teyvat | ꧁༺ꜱɑ¡ζɑლɑ༻꧂#1264 | all Liyue chest.num:1043                                     |
-| 2023/01/10 | ![WorldQuests](OtherFile/img/icons/CommonChest.png)Generate Chest | [Generate Chest](https://github.com/Sam5440/Genshin_Impact_Teleport/tree/download/ManualCollectPoint/Chest#generate-chestzip) | ALL    | lithtech#9980    | Only the treasure chest location JSON exists, no starting point for solving the treasure chest in the puzzle category |
-| 2023/01/20 | ![WorldQuests](OtherFile/img/icons/CommonChest.png)Ver3.4 Chest | [Ver3.4 Chest](https://github.com/Sam5440/Genshin_Impact_Teleport/tree/download/ManualCollectPoint/Chest#ver34-chestzip) | Teyvat | 空白#0099 | All chest in ver 3.4's new area ,include![SmallRockPile](OtherFile/img/icons/SmallRockPile.png) (RockPileSemeru),but Some need to Decrypt . |
+| 2022/10/13 | ![SmallRockPile](OtherFile/img/icons/SmallRockPile.png)Ver3.1 RockPileSemeru | [Ver3.1 RockPileSemeru](/../download/ManualCollectPoint/Chest#ver31-rockpilesemeruzip) | Teyvat | Michell Lim#9331 | Some of them are inside the sand pile and need to be cleared by wind elements, another one is to break the bottle, and 2 are to break the rock |
+| 2022/12/22 | ![WorldQuests](OtherFile/img/icons/CommonChest.png)Liyue  - 1043 chest | [Liyue Chests Json 1043](/../download/ManualCollectPoint/Chest#liyue-chests-json-1043zip) | Teyvat | ꧁༺ꜱɑ¡ζɑლɑ༻꧂#1264 | all Liyue chest.num:1043                                     |
+| 2023/01/10 | ![WorldQuests](OtherFile/img/icons/CommonChest.png)Generate Chest | [Generate Chest](/../download/ManualCollectPoint/Chest#generate-chestzip) | ALL    | lithtech#9980    | Only the treasure chest location JSON exists, no starting point for solving the treasure chest in the puzzle category |
+| 2023/01/20 | ![WorldQuests](OtherFile/img/icons/CommonChest.png)Ver3.4 Chest | [Ver3.4 Chest](/../download/ManualCollectPoint/Chest#ver34-chestzip) | Teyvat | 空白#0099 | All chest in ver 3.4's new area ,include![SmallRockPile](OtherFile/img/icons/SmallRockPile.png) (RockPileSemeru),but Some need to Decrypt . |
 
 ## ExploreTo100
 
 | AddTime | Name | Floder Name/ID | World | Author/ID | NOTE |
 | ------------- | ------------------------------------------------------------ | ----------------------------- | ------------ | ----------------- | ------------------------------------------------------------ |
-| 2022/11/04    | ![WorldQuests](OtherFile/img/icons/TeleportWaypoint.png)Sumeru Desert - 100% | [Sumeru_Desert_100](https://github.com/Sam5440/Genshin_Impact_Teleport/tree/download/ManualCollectPoint/ExploreTo100#sumeru_desert_100zip)             | Teyvat       | zxcreepz#0001     | Sumeru Desert - 100% region - all chests, sacred seals and dendroculus |
-| 2022/11/04    | ![WorldQuests](OtherFile/img/icons/TeleportWaypoint.png)Sumeru  - 100% | [Sumeru_Region_100](https://github.com/Sam5440/Genshin_Impact_Teleport/tree/download/ManualCollectPoint/ExploreTo100#sumeru_region_100zip)           | Teyvat       | zxcreepz#0001     | Sumeru  100% region - all chests, sacred seals and dendroculus |
-| 2023/01/10    | ![WorldQuests](OtherFile/img/icons/TeleportWaypoint.png)TheChasm100% | [The Chasm 100%](https://github.com/Sam5440/Genshin_Impact_Teleport/tree/download/ManualCollectPoint/ExploreTo100#thechasm100zip)                | Thechasm100% | serendipity#3437  | The Chasm 100%                                               |
-| 2023/01/10    | ![WorldQuests](OtherFile/img/icons/TeleportWaypoint.png)The Chasm UndergroundMines 100% | [TheChasmUndergroundMines 100%](https://github.com/Sam5440/Genshin_Impact_Teleport/tree/download/ManualCollectPoint/ExploreTo100#thechasmundergroundmines100zip) | The chasm    | serendipity#3437  | The Chasm UndergroundMines 100%                              |
+| 2022/11/04    | ![WorldQuests](OtherFile/img/icons/TeleportWaypoint.png)Sumeru Desert - 100% | [Sumeru_Desert_100](/../download/ManualCollectPoint/ExploreTo100#sumeru_desert_100zip)             | Teyvat       | zxcreepz#0001     | Sumeru Desert - 100% region - all chests, sacred seals and dendroculus |
+| 2022/11/04    | ![WorldQuests](OtherFile/img/icons/TeleportWaypoint.png)Sumeru  - 100% | [Sumeru_Region_100](/../download/ManualCollectPoint/ExploreTo100#sumeru_region_100zip)           | Teyvat       | zxcreepz#0001     | Sumeru  100% region - all chests, sacred seals and dendroculus |
+| 2023/01/10    | ![WorldQuests](OtherFile/img/icons/TeleportWaypoint.png)TheChasm100% | [The Chasm 100%](/../download/ManualCollectPoint/ExploreTo100#thechasm100zip)                | Thechasm100% | serendipity#3437  | The Chasm 100%                                               |
+| 2023/01/10    | ![WorldQuests](OtherFile/img/icons/TeleportWaypoint.png)The Chasm UndergroundMines 100% | [TheChasmUndergroundMines 100%](/../download/ManualCollectPoint/ExploreTo100#thechasmundergroundmines100zip) | The chasm    | serendipity#3437  | The Chasm UndergroundMines 100%                              |
 
 
 ## OtherPoint
@@ -224,16 +224,16 @@ Not coordinates. Some of the files needed are pictures etc.
 
 | AddTime    | Name                                                          | Floder Name/ID                   | World  | Author/ID        | NOTE                                                         |
 | ---------- | ------------------------------------------------------------ | ------------------------- | ------ | ---------------- | ------------------------------------------------------------ |
-| 2022/10/07 | ![BuriedChest](OtherFile/img/icons/SearchPoint.png)artifact farm-圣遗物狗粮[dogfood] | [gouliangv2](https://github.com/Sam5440/Genshin_Impact_Teleport/tree/download/ManualCollectPoint/OtherPoint#gouliangv2zip)                | Teyvat | 傻逼#7734        | P/S:作者ID确实叫这个，没有骂人的意思             |
-| 2022/10/12 | ![BuriedChest](OtherFile/img/icons/SearchPoint.png)artifact farm-圣遗物狗粮[dogfood] | [AutoArtifact](https://github.com/Sam5440/Genshin_Impact_Teleport/tree/download/ManualCollectPoint/OtherPoint#autoartifactzip)              | Teyvat | ShinaKaria#9760  | AB路线破圣遗物调查点上限(A127+B123), ,A68~70为森林书后开放点位  须弥左上角那个,一共4个调查点 |
-| 2022/10/11 | ![Aranara](OtherFile/img/icons/Aranara.png)兰那罗            | [76Aranara](https://github.com/Sam5440/Genshin_Impact_Teleport/tree/download/ManualCollectPoint/OtherPoint#76aranarazip)                 | Teyvat | Flowers#0948    | 76个兰那罗，这个不能全自动的奥，需要交材料 弹琴之类的，需要材料如下![76nanalaluo](OtherFile/img/AboutPoint/76nanalaluo.png) |
-| 2023/01/20 | ![WorldQuests](OtherFile/img/icons/WorldQuests.png)3.4Limited Time Challenge | [3.4Limited Time Challenge](https://github.com/Sam5440/Genshin_Impact_Teleport/tree/download/ManualCollectPoint/OtherPoint#34limited-time-challengezip) | Teyvat | 空白#0099 | Version 3.4 new area Limited Time Challenge point. |
-| 3.4LuminousSeelie | ![WorldQuests](OtherFile/img/icons/LuminousSeelie.png)3.4LuminousSeelie | [3.4LuminousSeelie](https://github.com/Sam5440/Genshin_Impact_Teleport/tree/download/ManualCollectPoint/OtherPoint#34luminousseeliezip) | Teyvat | 空白#0099 | Version 3.4 new area LuminousSeelie point. |
-| Fishing Points | ![FishingPoint.png](OtherFile/img/icons/FishingPoint.png)Fishing Points | [Fishing Points](https://github.com/Sam5440/Genshin_Impact_Teleport/tree/download/ManualCollectPoint/OtherPoint#fishpondzip) | Teyvat | [COOL#6860](https://github.com/limitcool) | Fish ponds. |
+| 2022/10/07 | ![BuriedChest](OtherFile/img/icons/SearchPoint.png)artifact farm-圣遗物狗粮[dogfood] | [gouliangv2](/../download/ManualCollectPoint/OtherPoint#gouliangv2zip)                | Teyvat | 傻逼#7734        | P/S:作者ID确实叫这个，没有骂人的意思             |
+| 2022/10/12 | ![BuriedChest](OtherFile/img/icons/SearchPoint.png)artifact farm-圣遗物狗粮[dogfood] | [AutoArtifact](/../download/ManualCollectPoint/OtherPoint#autoartifactzip)              | Teyvat | ShinaKaria#9760  | AB路线破圣遗物调查点上限(A127+B123), ,A68~70为森林书后开放点位  须弥左上角那个,一共4个调查点 |
+| 2022/10/11 | ![Aranara](OtherFile/img/icons/Aranara.png)兰那罗            | [76Aranara](/../download/ManualCollectPoint/OtherPoint#76aranarazip)                 | Teyvat | Flowers#0948    | 76个兰那罗，这个不能全自动的奥，需要交材料 弹琴之类的，需要材料如下![76nanalaluo](OtherFile/img/AboutPoint/76nanalaluo.png) |
+| 2023/01/20 | ![WorldQuests](OtherFile/img/icons/WorldQuests.png)3.4Limited Time Challenge | [3.4Limited Time Challenge](/../download/ManualCollectPoint/OtherPoint#34limited-time-challengezip) | Teyvat | 空白#0099 | Version 3.4 new area Limited Time Challenge point. |
+| 3.4LuminousSeelie | ![WorldQuests](OtherFile/img/icons/LuminousSeelie.png)3.4LuminousSeelie | [3.4LuminousSeelie](/../download/ManualCollectPoint/OtherPoint#34luminousseeliezip) | Teyvat | 空白#0099 | Version 3.4 new area LuminousSeelie point. |
+| Fishing Points | ![FishingPoint.png](OtherFile/img/icons/FishingPoint.png)Fishing Points | [Fishing Points](/../download/ManualCollectPoint/OtherPoint#fishpondzip) | Teyvat | [COOL#6860](https://github.com/limitcool) | Fish ponds. |
 
 # ManualOptimizationPoint
 
-> **[Download Page](https://github.com/Sam5440/Genshin_Impact_Teleport/tree/download/OptimizationCollectionPackage)**
+> **[Download Page](../../tree/download/OptimizationCollectionPackage)**
 
 ---
 
@@ -261,13 +261,13 @@ Not coordinates. Some of the files needed are pictures etc.
 
 > Collected by A9FM,include chest in version 3.4 and ...
 > 
-> [v3.4 Chest](https://github.com/Sam5440/Genshin_Impact_Teleport/tree/download/OptimizationCollectionPackage/Auto-Teleport_byA9FM(26_01_2023)/ALL%20CHESTS#ver34-chestzip) Author:空白#0099
+> [v3.4 Chest](../../tree/download/OptimizationCollectionPackage/Auto-Teleport_byA9FM(26_01_2023)/ALL%20CHESTS#ver34-chestzip) Author:空白#0099
 
 # AutoGeneratePoint
 
-[AutoGeneratePoint](./AutoGeneratePoint)
+[AutoGeneratePoint](AutoGeneratePoint)
 
-[Readme](/AutoGeneratePoint/Points(SortByItemKind)[ver3.4][cn-en][2023-01-18]/Readme.md)
+[Readme](AutoGeneratePoint/Points(SortByItemKind)[ver3.4][cn-en][2023-01-18]/Readme.md)
 
 >**These are the coordinates generated from the data. But contains one-off points, mission-generated points. More complete but less accurate than manually collected coordinates and may have empty coordinates.**
 >
@@ -277,29 +277,29 @@ Not coordinates. Some of the files needed are pictures etc.
 >
 >**Supported language is described in each folder's name. (if it exists)**
 >
-> [Points(SortByItemKind)](./AutoGeneratePoint/Points(SortByItemKind)[ver3.4][cn-en][2023-01-18]) is generated and optimized by [ShinaKaria](https://github.com/ShinaKaria) 
+> [Points(SortByItemKind)](AutoGeneratePoint/Points(SortByItemKind)[ver3.4][cn-en][2023-01-18]) is generated and optimized by [ShinaKaria](https://github.com/ShinaKaria) 
 
 ## Teleport ALL[v3.4]
 
 Download here:
 
-[Teleport ALL[v3.4][AL-15M][2023-01-18]](https://github.com/Sam5440/Genshin_Impact_Teleport/tree/download/AutoGeneratePoint/Points(SortByItemKind)%5Bver3.4%5D%5Bcn-en%5D%5B2023-01-18%5D#teleport-allv34al-15m2023-01-18zip)
+[Teleport ALL[v3.4][AL-15M][2023-01-18]](/../download/AutoGeneratePoint/Points(SortByItemKind)%5Bver3.4%5D%5Bcn-en%5D%5B2023-01-18%5D#teleport-allv34al-15m2023-01-18zip)
 
-[Teleport ALL[v3.4][AL-20M][2023-01-18]](https://github.com/Sam5440/Genshin_Impact_Teleport/tree/download/AutoGeneratePoint/Points(SortByItemKind)%5Bver3.4%5D%5Bcn-en%5D%5B2023-01-18%5D#teleport-allv34al-20m2023-01-18zip)
+[Teleport ALL[v3.4][AL-20M][2023-01-18]](/../download/AutoGeneratePoint/Points(SortByItemKind)%5Bver3.4%5D%5Bcn-en%5D%5B2023-01-18%5D#teleport-allv34al-20m2023-01-18zip)
 
-[【Test】Teleport ALL[v3.4-Test][AL-20M][2023-01-18]](https://github.com/Sam5440/Genshin_Impact_Teleport/tree/download/AutoGeneratePoint/Points(SortByItemKind)%5Bver3.4%5D%5Bcn-en%5D%5B2023-01-18%5D#testteleport-allv34-testal-20m2023-01-18zip)
+[【Test】Teleport ALL[v3.4-Test][AL-20M][2023-01-18]](/../download/AutoGeneratePoint/Points(SortByItemKind)%5Bver3.4%5D%5Bcn-en%5D%5B2023-01-18%5D#testteleport-allv34-testal-20m2023-01-18zip)
 
-[【Test】Teleport ALL[v3.4][AL-15M][2023-01-18]](https://github.com/Sam5440/Genshin_Impact_Teleport/tree/download/AutoGeneratePoint/Points(SortByItemKind)%5Bver3.4%5D%5Bcn-en%5D%5B2023-01-18%5D#testteleport-allv34al-15m2023-01-18zip)
+[【Test】Teleport ALL[v3.4][AL-15M][2023-01-18]](/../download/AutoGeneratePoint/Points(SortByItemKind)%5Bver3.4%5D%5Bcn-en%5D%5B2023-01-18%5D#testteleport-allv34al-15m2023-01-18zip)
 
 ## ALL Waypoint
 
-[3.3 ALL Waypoint (include Statue and Domain)](https://github.com/Sam5440/Genshin_Impact_Teleport/tree/download/AutoGeneratePoint/Points(SortByItemKind)%5Bver3.4%5D%5Bcn-en%5D%5B2023-01-18%5D#%E5%85%A8%E9%94%9A%E7%82%B9-%E5%8C%85%E6%8B%AC%E7%A5%9E%E5%83%8F%E7%A7%98%E5%A2%8333--all-waypoint-include-statue-and-domainzip)
+[3.3 ALL Waypoint (include Statue and Domain)](/../download/AutoGeneratePoint/Points(SortByItemKind)%5Bver3.4%5D%5Bcn-en%5D%5B2023-01-18%5D#%E5%85%A8%E9%94%9A%E7%82%B9-%E5%8C%85%E6%8B%AC%E7%A5%9E%E5%83%8F%E7%A7%98%E5%A2%8333--all-waypoint-include-statue-and-domainzip)
 
-[3.4 ALL Waypoint (without Statue and Domain)](https://github.com/Sam5440/Genshin_Impact_Teleport/tree/download/AutoGeneratePoint/Points(SortByItemKind)%5Bver3.4%5D%5Bcn-en%5D%5B2023-01-18%5D#%E9%94%9A%E7%82%B9%E6%97%A0%E7%A5%9E%E5%83%8F%E7%A7%98%E5%A2%8334-all-waypoint-without-statue-and-domainzip)
+[3.4 ALL Waypoint (without Statue and Domain)](/../download/AutoGeneratePoint/Points(SortByItemKind)%5Bver3.4%5D%5Bcn-en%5D%5B2023-01-18%5D#%E9%94%9A%E7%82%B9%E6%97%A0%E7%A5%9E%E5%83%8F%E7%A7%98%E5%A2%8334-all-waypoint-without-statue-and-domainzip)
 
 ## 3.3 Dendroculus 180
 
-[3.3 Dendroculus 180](https://github.com/Sam5440/Genshin_Impact_Teleport/tree/download/AutoGeneratePoint/Points(SortByItemKind)%5Bver3.4%5D%5Bcn-en%5D%5B2023-01-18%5D#%E9%A3%8E%E7%A5%9E%E7%9E%B318033-dendroculus-180zip)
+[3.3 Dendroculus 180](/../download/AutoGeneratePoint/Points(SortByItemKind)%5Bver3.4%5D%5Bcn-en%5D%5B2023-01-18%5D#%E9%A3%8E%E7%A5%9E%E7%9E%B318033-dendroculus-180zip)
 
 # Data From
 
@@ -334,5 +334,4 @@ Of course,not all things are included,All issues and PR are welcomed.
 [^1]: Lumenspar-upgrade is used in Lumenspar task upgrade.
 [^2]: There are 3 subfolders in the folder "Dendroculus", corresponding to its locations in version 3.0 and version 3.1, and the combination of 2 versions
 [^3]: The coordinates for version 3.4 were collected by another author,same goes for the sacred seal.
-[^4]:it was named Redcrest before 3.2.0 version.
-
+[^4]: It was named Redcrest before 3.2.0 version.
