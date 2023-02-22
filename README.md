@@ -133,6 +133,20 @@ Download Branch : [Sam5440/Genshin_Impact_Teleport at download](../../tree/downl
 
 ## Special Items
 
+<details>
+  <summary>
+    <table>
+      <tr>
+        <th>AddTime</th>
+        <th>IMG</th>
+        <th>Name/ID</th>
+        <th>World</th>
+        <th>Author/DC ID</th>
+      </tr>
+    </table>
+  </summary>
+</details>
+
 | AddTime    | Img                                                   | Name/ID               | World                 | Author/DC ID  |
 | ---------- | ----------------------------------------------------- | --------------------- | --------------------- | ------------- |
 | 2022/09/30 | ![Anemoculus](OtherFile/img/icons/Anemoculus.png)     | [AnemOculus](/../download/ManualCollectPoint/SpecialItems#anemoculuszip)            | Teyvat                | inkay#5122    |
