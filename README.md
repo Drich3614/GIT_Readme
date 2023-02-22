@@ -3,7 +3,7 @@
   <br>
   <a href="https://discord.gg/2Na43ZD2XE"><img src="https://img.shields.io/discord/1064910847790563329?color=%2352b4d8&label=Genshin%20Impact%20teleport%20channel&logo=discord&style=for-the-badge"></a>
   <br>
-  <a href="../../commits/main"><img src="https://img.shields.io/github/last-commit/Sam5440/Genshin_Impact_Teleport?label=Last%20Commit&logo=Github&style=flat-square"></a>
+  <a href="/../commits/main"><img src="https://img.shields.io/github/last-commit/Sam5440/Genshin_Impact_Teleport?label=Last%20Commit&logo=Github&style=flat-square"></a>
   <a href="../../releases"><img src="https://img.shields.io/github/downloads/Sam5440/Genshin_Impact_Teleport/total?label=Total%20Downloads&logo=Github&style=flat-square"></a>
   <br>
   <div>
@@ -106,9 +106,9 @@ We develop the quickest 3D route navigation map for Genshin Impact as a player-f
 
 ## Download each directory as a zip file
 
-[Click me](../download) and look for the files you need in the same directory.
+[Click me](/../download) and look for the files you need in the same directory.
 
-Download Branch : [Sam5440/Genshin_Impact_Teleport at download](https://github.com/Sam5440/Genshin_Impact_Teleport/tree/download)
+Download Branch : [Sam5440/Genshin_Impact_Teleport at download](/../download)
 
 ## How to search in web page?
 
