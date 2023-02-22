@@ -134,7 +134,7 @@ Download Branch : [Sam5440/Genshin_Impact_Teleport at download](../../tree/downl
 ## Special Items
 
 <details>
-  <summary>SI</summary>
+  <summary><b>Special Items</b></summary>
   <table>
     <thead>
     <tr>
@@ -169,56 +169,56 @@ Download Branch : [Sam5440/Genshin_Impact_Teleport at download](../../tree/downl
     </tr>
     <tr>
     <td>2022/09/30</td>
-    <td><a target="_blank" rel="noopener noreferrer" href="/Drich3614/GIT_Readme/blob/main/OtherFile/img/icons/Electroculus.png"><img src="OtherFile/img/icons/Electroculus.png" alt="Electroculus" style="max-width: 100%;"></a></td>
+    <td><img src="OtherFile/img/icons/Electroculus.png" alt="Electroculus" style="max-width: 100%;"></a></td>
     <td><a href="/../download/ManualCollectPoint/SpecialItems#electroculuszip">Electroculus</a></td>
     <td>Teyvat</td>
     <td>inkay#5122</td>
     </tr>
     <tr>
     <td>2022/10/11</td>
-    <td><a target="_blank" rel="noopener noreferrer" href="/Drich3614/GIT_Readme/blob/main/OtherFile/img/icons/Lumenspar.png"><img src="OtherFile/img/icons/Lumenspar.png" alt="Lumenspar" style="max-width: 100%;"></a></td>
+    <td><img src="OtherFile/img/icons/Lumenspar.png" alt="Lumenspar" style="max-width: 100%;"></td>
     <td><a href="/../download/ManualCollectPoint/SpecialItems#lumensparzip">Lumenspar</a></td>
     <td>The Chasm Underground</td>
     <td>emma1259#3965</td>
     </tr>
     <tr>
     <td>2022/10/11</td>
-    <td><a target="_blank" rel="noopener noreferrer" href="/Drich3614/GIT_Readme/blob/main/OtherFile/img/icons/Lumenspar.png"><img src="OtherFile/img/icons/Lumenspar.png" alt="Lumenspar" style="max-width: 100%;"></a></td>
-    <td><a href="/../download/ManualCollectPoint/SpecialItems#lumenspar-upgradezip">Lumenstone Ore</a><sup><a href="#user-content-fn-1-a00556afbf8b320b8b6bbcd3c638d434" id="user-content-fnref-1-a00556afbf8b320b8b6bbcd3c638d434" data-footnote-ref="" aria-describedby="footnote-label">1</a></sup></td>
+    <td><img src="OtherFile/img/icons/Lumenspar.png" alt="Lumenspar" style="max-width: 100%;"></td>
+    <td><a href="/../download/ManualCollectPoint/SpecialItems#lumenspar-upgradezip">Lumenstone Ore</a><sup><a href="#user-content-fn-1-ec97c06651b6f726d70aa5a1f3e940a4">1</a></sup></td>
     <td>The Chasm Underground</td>
     <td>emma1259#3965</td>
     </tr>
     <tr>
     <td>2022/11/05</td>
-    <td><a target="_blank" rel="noopener noreferrer" href="/Drich3614/GIT_Readme/blob/main/OtherFile/img/icons/KeySigilNew.png"><img src="OtherFile/img/icons/KeySigilNew.png" alt="KeySigil" style="max-width: 100%;"></a></td>
+    <td><img src="OtherFile/img/icons/KeySigilNew.png" alt="KeySigil" style="max-width: 100%;"></td>
     <td><a href="/../download/ManualCollectPoint/SpecialItems#key-sigilzip">Key Sigil</a></td>
     <td>Enkanomiya</td>
     <td>allencross#6363</td>
     </tr>
     <tr>
     <td>2022/09/30</td>
-    <td><a target="_blank" rel="noopener noreferrer" href="/Drich3614/GIT_Readme/blob/main/OtherFile/img/icons/Dendroculus.png"><img src="OtherFile/img/icons/Dendroculus.png" alt="Dendroculus" style="max-width: 100%;"></a></td>
+    <td><img src="OtherFile/img/icons/Dendroculus.png" alt="Dendroculus" style="max-width: 100%;"></td>
     <td><a href="/../download/ManualCollectPoint/SpecialItems#dendroculuszip">Dendroculus</a><sup><a href="#user-content-fn-2-a00556afbf8b320b8b6bbcd3c638d434" id="user-content-fnref-2-a00556afbf8b320b8b6bbcd3c638d434" data-footnote-ref="" aria-describedby="footnote-label">2</a></sup></td>
     <td>Teyvat</td>
     <td>inkay#5122</td>
     </tr>
     <tr>
     <td>2023/01/19</td>
-    <td><a target="_blank" rel="noopener noreferrer" href="/Drich3614/GIT_Readme/blob/main/OtherFile/img/icons/Dendroculus.png"><img src="OtherFile/img/icons/Dendroculus.png" alt="Dendroculus" style="max-width: 100%;"></a></td>
+    <td><img src="OtherFile/img/icons/Dendroculus.png" alt="Dendroculus" style="max-width: 100%;"></td>
     <td><a href="/../download/ManualCollectPoint/SpecialItems/Dendroculus#34zip">Dendroculus 3.4</a><sup><a href="#user-content-fn-3-a00556afbf8b320b8b6bbcd3c638d434" id="user-content-fnref-3-a00556afbf8b320b8b6bbcd3c638d434" data-footnote-ref="" aria-describedby="footnote-label">3</a></sup></td>
     <td>Teyvat</td>
     <td>空白#0099</td>
     </tr>
     <tr>
     <td>2022/10/05</td>
-    <td><a target="_blank" rel="noopener noreferrer" href="/Drich3614/GIT_Readme/blob/main/OtherFile/img/icons/SacredSeal.png"><img src="OtherFile/img/icons/SacredSeal.png" alt="SacredSeal" style="max-width: 100%;"></a></td>
+    <td><img src="OtherFile/img/icons/SacredSeal.png" alt="SacredSeal" style="max-width: 100%;"></td>
     <td><a href="/../download/ManualCollectPoint/SpecialItems#sacred-sealzip">Sacred Seal</a></td>
     <td>Teyvat</td>
     <td>Misuki#9695</td>
     </tr>
     <tr>
     <td>2023/01/19</td>
-    <td><a target="_blank" rel="noopener noreferrer" href="/Drich3614/GIT_Readme/blob/main/OtherFile/img/icons/SacredSeal.png"><img src="OtherFile/img/icons/SacredSeal.png" alt="SacredSeal" style="max-width: 100%;"></a></td>
+    <td><img src="OtherFile/img/icons/SacredSeal.png" alt="SacredSeal" style="max-width: 100%;"></td>
     <td><a href="/../download/ManualCollectPoint/SpecialItems/Sacred%20Seal#34zip">Sacred Seal 3.4</a></td>
     <td>Teyvat</td>
     <td>空白#0099</td>
