@@ -106,9 +106,9 @@ We develop the quickest 3D route navigation map for Genshin Impact as a player-f
 
 ## Download each directory as a zip file
 
-[Click me](../tree/download) and look for the files you need in the same directory.
+[Click me](../../tree/download) and look for the files you need in the same directory.
 
-Download Branch : [Sam5440/Genshin_Impact_Teleport at download](/../download/)
+Download Branch : [Sam5440/Genshin_Impact_Teleport at download](/../../tree/download
 
 ## How to search in web page?
 
@@ -135,7 +135,7 @@ Download Branch : [Sam5440/Genshin_Impact_Teleport at download](/../download/)
 
 | AddTime    | Img                                                   | Name/ID               | World                 | Author/DC ID  |
 | ---------- | ----------------------------------------------------- | --------------------- | --------------------- | ------------- |
-| 2022/09/30 | ![Anemoculus](OtherFile/img/icons/Anemoculus.png)     | [AnemOculus](/../download/ManualCollectPoint/SpecialItems#anemoculuszip)            | Teyvat                | inkay#5122    |
+| 2022/09/30 | ![Anemoculus](/../download/OtherFile/img/icons/Anemoculus.png)     | [AnemOculus](/../download/ManualCollectPoint/SpecialItems#anemoculuszip)            | Teyvat                | inkay#5122    |
 | 2022/10/07 | ![CrimsonAgate](OtherFile/img/icons/CrimsonAgate.png) | [Crimson Agate](https://github.com/Sam5440/Genshin_Impact_Teleport/tree/download/ManualCollectPoint/SpecialItems#crimson-agatezip)         | Teyvat                | 𝓜𝓪𝓻𝓽𝓲𝓷#6895  |
 | 2022/09/30 | ![Geoculus](OtherFile/img/icons/Geoculus.png)         | [Geoculus](https://github.com/Sam5440/Genshin_Impact_Teleport/tree/download/ManualCollectPoint/SpecialItems#geoculuszip)              | Teyvat                | inkay#5122    |
 | 2022/09/30 | ![Electroculus](OtherFile/img/icons/Electroculus.png) | [Electroculus](https://github.com/Sam5440/Genshin_Impact_Teleport/tree/download/ManualCollectPoint/SpecialItems#electroculuszip)          | Teyvat                | inkay#5122    |
