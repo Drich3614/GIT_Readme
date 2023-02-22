@@ -1,13 +1,13 @@
 <div align="center">
-  <a href="#"><img style="width:600;height:675" src="/OtherFile/img/GIT_Branding_NS.png"></a>
+  <a href="#"><img style="width:600;height:675" src="OtherFile/img/GIT_Branding_NS.png"></a>
   <br>
   <a href="https://discord.gg/2Na43ZD2XE"><img src="https://img.shields.io/discord/1064910847790563329?color=%2352b4d8&label=Genshin%20Impact%20teleport%20channel&logo=discord&style=for-the-badge"></a>
   <br>
-  <a href="/../commits/main"><img src="https://img.shields.io/github/last-commit/Sam5440/Genshin_Impact_Teleport?label=Last%20Commit&logo=Github&style=flat-square"></a>
+  <a href="../../commits/main"><img src="https://img.shields.io/github/last-commit/Sam5440/Genshin_Impact_Teleport?label=Last%20Commit&logo=Github&style=flat-square"></a>
   <a href="../../releases"><img src="https://img.shields.io/github/downloads/Sam5440/Genshin_Impact_Teleport/total?label=Total%20Downloads&logo=Github&style=flat-square"></a>
   <br>
   <div>
-    <a href="../stargazers"><img width="100px" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Sam5440/Genshin_Impact_Teleport?label=Stars&logo=data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjE2IiB3aWR0aD0iMTYiIHZlcnNpb249IjEuMSIgaWQ9IkNhcGFfMSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgCgkgdmlld0JveD0iMCAwIDE2IDE2IiB4bWw6c3BhY2U9InByZXNlcnZlIj4KPHBhdGggc3R5bGU9ImZpbGw6I0VBQzU0RjsiIGQ9Ik04IC4yNWEuNzUuNzUgMCAwMS42NzMuNDE4bDEuODgyIDMuODE1IDQuMjEuNjEyYS43NS43NSAwIDAxLjQxNiAxLjI3OWwtMy4wNDYgMi45Ny43MTkgNC4xOTJhLjc1Ljc1IDAgMDEtMS4wODguNzkxTDggMTIuMzQ3bC0zLjc2NiAxLjk4YS43NS43NSAwIDAxLTEuMDg4LS43OWwuNzItNC4xOTRMLjgxOCA2LjM3NGEuNzUuNzUgMCAwMS40MTYtMS4yOGw0LjIxLS42MTFMNy4zMjcuNjY4QS43NS43NSAwIDAxOCAuMjV6Ii8+Cjwvc3ZnPg==&style=flat-square">
+    <a href="../../stargazers"><img width="100px" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Sam5440/Genshin_Impact_Teleport?label=Stars&logo=data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjE2IiB3aWR0aD0iMTYiIHZlcnNpb249IjEuMSIgaWQ9IkNhcGFfMSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgCgkgdmlld0JveD0iMCAwIDE2IDE2IiB4bWw6c3BhY2U9InByZXNlcnZlIj4KPHBhdGggc3R5bGU9ImZpbGw6I0VBQzU0RjsiIGQ9Ik04IC4yNWEuNzUuNzUgMCAwMS42NzMuNDE4bDEuODgyIDMuODE1IDQuMjEuNjEyYS43NS43NSAwIDAxLjQxNiAxLjI3OWwtMy4wNDYgMi45Ny43MTkgNC4xOTJhLjc1Ljc1IDAgMDEtMS4wODguNzkxTDggMTIuMzQ3bC0zLjc2NiAxLjk4YS43NS43NSAwIDAxLTEuMDg4LS43OWwuNzItNC4xOTRMLjgxOCA2LjM3NGEuNzUuNzUgMCAwMS40MTYtMS4yOGw0LjIxLS42MTFMNy4zMjcuNjY4QS43NS43NSAwIDAxOCAuMjV6Ii8+Cjwvc3ZnPg==&style=flat-square">
     </img></a>
   </div>
   If it's helpful to you,please give us a <b>Star</b>!
@@ -106,7 +106,7 @@ We develop the quickest 3D route navigation map for Genshin Impact as a player-f
 
 ## Download each directory as a zip file
 
-[Click me](https://github.com/Sam5440/Genshin_Impact_Teleport/tree/download) and look for the files you need in the same directory.
+[Click me](../download) and look for the files you need in the same directory.
 
 Download Branch : [Sam5440/Genshin_Impact_Teleport at download](https://github.com/Sam5440/Genshin_Impact_Teleport/tree/download)
 
@@ -327,7 +327,7 @@ Of course,not all things are included,All issues and PR are welcomed.
 
 > you can also pr the json file you use.Thank you very much
 
-<a href="https://github.com/Sam5440/Genshin_Impact_Teleport/graphs/contributors">
+<a href="../../graphs/contributors">
   <img src="https://contrib.rocks/image?repo=Sam5440/Genshin_Impact_Teleport&max=1000" />
 </a>
 
